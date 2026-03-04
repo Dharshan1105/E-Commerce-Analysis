@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis 📊
+# E-Commerce Data Analysis 
 
 ## Project Overview
 
@@ -55,7 +55,7 @@ These steps ensure the dataset is clean and reliable for further analysis or mod
 
 ## Tools & Libraries Used
 
-* Python 🐍
+* Python 
 * Jupyter Notebook
 * Pandas
 * NumPy
